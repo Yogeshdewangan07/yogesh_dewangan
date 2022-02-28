@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yogeshrdewangan
+- 👋 Hi, I’m Yogesh Dewangan
 - 👀 I’m interested in software development and web development
 - 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yogeshrameshdewangan@gmail.com
 
 <!---
